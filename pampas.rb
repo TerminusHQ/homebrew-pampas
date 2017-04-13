@@ -1,9 +1,9 @@
 class Pampas < Formula
   desc "A "
   homepage "https://www.terminus.io/"
-  url "http://terminus-paas.oss.aliyuncs.com/dist/pampas/pampas.0.1.0.tar.gz"
-  version "0.1.0"
-  sha256 "bad7bfca729983296d2b3d2f7622201808466c5b80f8e8443c7af3e4cbca016c"
+  url "http://terminus-paas.oss.aliyuncs.com/dist/pampas/pampas.0.1.1.tar.gz"
+  version "0.1.1"
+  sha256 "9da18398aabe2f2f1d0c52672c854ffb645634a5c5080e4598ff491ad95c1177"
 
   depends_on "maven"
   depends_on "git"
