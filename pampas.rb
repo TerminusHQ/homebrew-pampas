@@ -3,7 +3,7 @@ class Pampas < Formula
   homepage "https://www.terminus.io/"
   url "http://terminus-paas.oss.aliyuncs.com/dist/pampas/pampas.0.1.1.tar.gz"
   version "0.1.1"
-  sha256 "9da18398aabe2f2f1d0c52672c854ffb645634a5c5080e4598ff491ad95c1177"
+  sha256 "b6230a19334a479ca44b4d8a1b269831af86c8f95bcf4f5c355d95c8736c9a72"
 
   depends_on "maven"
   depends_on "git"
