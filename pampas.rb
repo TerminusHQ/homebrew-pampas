@@ -1,9 +1,9 @@
 class Pampas < Formula
   desc "pampas command line interface"
   homepage "https://www.terminus.io/"
-  url "http://terminus-paas.oss.aliyuncs.com/dist/pampas/pampas.0.2.4.tar.gz"
-  version "0.2.4"
-  sha256 "6247333a6f70f7ad25edbc786928b6097119b9d00d1304fb94a51e75f416726c"
+  url "http://terminus-paas.oss.aliyuncs.com/dist/pampas/pampas.0.2.5.tar.gz"
+  version "0.2.5"
+  sha256 "9fe22230aaa64f7abf507421dcbda7b3d4d22fd7906677f0204266d2dc660177"
 
   depends_on "maven"
   depends_on "git"
